@@ -1,0 +1,7 @@
+{
+  "name": "alerta-lichinga",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "dependencies": { "bcryptjs": "^2.4.3", "pg": "^8.11.5" }
+}
